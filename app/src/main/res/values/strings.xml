@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="search_label">Search</string>
+    <string name="rd_track_label">Track rating</string>
+    <string name="rd_artist">Artist Rating</string>
+    <string name="sort_label">Sort by :</string>
+    <string name="search_results">Search Results</string>
+    <string name="Track">Track</string>
+    <string name="Album">Album</string>
+    <string name="Artist">Artist</string>
+    <string name="Date">Date</string>
+    <string name="sb_tv_label">Limit: 25</string>
+    <string name="error">Please add some keyword</string>
+</resources>
